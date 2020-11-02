@@ -15,7 +15,7 @@ const PUZZLE_HOVER_TINT = '#009900';
 
     let mouse;
 
-    function pic1() {
+    function pic1() {//tải ảnh vào
         img = new Image();
         img.addEventListener('load', onImage, false);
         img.src = "image/saber.PNG";
@@ -44,7 +44,7 @@ function pic4(){
     newPuzzle();
 }
 
-function newPuzzle() {
+function newPuzzle() {//chơi lại từ đầu
     pieces = [];
     mouse = {x: 0, y: 0};
     currentPiece = null;
@@ -54,7 +54,7 @@ function newPuzzle() {
     buildPieces();
 }
 
-     function onImage(e) {
+     function onImage(e) {//đặt ảnh
         pieceWidth = Math.floor(img.width / PUZZLE_DIFFICULTY)
         pieceHeight = Math.floor(img.height / PUZZLE_DIFFICULTY)
         puzzleWidth = pieceWidth * PUZZLE_DIFFICULTY;
@@ -71,14 +71,13 @@ function newPuzzle() {
         canvas.style.border = "1px solid black";
     }
 
-     function initPuzzle() {
+     function initPuzzle() {//tạo mảnh ghép
         pieces = [];
         mouse = {x: 0, y: 0};
         currentPiece = null;
         currentDropPiece = null;
         stage.drawImage(img, 0, 0, puzzleWidth, puzzleHeight, 0, 0, puzzleWidth, puzzleHeight);
-        createTitle("Are you sure ?? " +
-            "Click to Start Puzzle");
+        createTitle("Are you sure ?? Click to Start Puzzle");
         buildPieces();
     }
 
@@ -94,7 +93,7 @@ function newPuzzle() {
         stage.fillText(msg, puzzleWidth / 2, puzzleHeight - 20);
     }
 
-    function buildPieces() {
+    function buildPieces() {//tạo mảnh ghép
         let i;
         let piece;
         let xPos = 0;
@@ -113,7 +112,7 @@ function newPuzzle() {
         document.onmousedown = shufflePuzzle;
     }
 
-     function shufflePuzzle() {
+     function shufflePuzzle() {//tráo vị trí
         pieces = shuffleArray(pieces);
         stage.clearRect(0, 0, puzzleWidth, puzzleHeight);
         let i;
@@ -135,7 +134,7 @@ function newPuzzle() {
         document.onmousedown = onPuzzleClick;
     }
 
-    function onPuzzleClick(e) {
+    function onPuzzleClick(e) {//sự kiện chuột
         if (e.layerX || e.layerX == 0) {
             mouse.x = e.layerX - canvas.offsetLeft;
             mouse.y = e.layerY - canvas.offsetTop;
@@ -235,7 +234,7 @@ function newPuzzle() {
             }
         }
         if (gameWin) {
-            setTimeout(gameOver, 180);
+            gameOver();
         }
     }
 
