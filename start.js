@@ -18,7 +18,7 @@ const PUZZLE_HOVER_TINT = '#009900';
     function pic1() {//tải ảnh vào
         img = new Image();
         img.addEventListener('load', onImage, false);
-        img.src = "image/saber.PNG";
+        img.src = "../image/saber.PNG";
         newPuzzle();
 
     }
@@ -26,21 +26,21 @@ const PUZZLE_HOVER_TINT = '#009900';
     function pic2() {
         img = new Image();
         img.addEventListener('load', onImage, false);
-        img.src = "image/blaster blade.jpg"
+        img.src = "../image/blaster blade.jpg"
         newPuzzle()
 }
 
 function pic3(){
     img = new Image();
     img.addEventListener('load', onImage, false);
-    img.src = "image/blue eye.png"
+    img.src = "../image/blue eye.png"
     newPuzzle()
 }
 
 function pic4(){
     img = new Image();
     img.addEventListener('load', onImage, false);
-    img.src = "image/pacifica.jpg"
+    img.src = "../image/pacifica.jpg"
     newPuzzle();
 }
 

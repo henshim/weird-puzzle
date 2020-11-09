@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="edeaa16b-c5ca-4633-ad22-6929fa79d3bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/in-game/pic1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/in-game/pic3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/guide.html" beforeDir="false" afterPath="$PROJECT_DIR$/guide.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pic1.html" beforeDir="false" afterPath="$PROJECT_DIR$/in-game/pic2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/play-game.html" beforeDir="false" afterPath="$PROJECT_DIR$/play-game.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start.js" beforeDir="false" afterPath="$PROJECT_DIR$/start.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jJnJcOtVzYNef4OXUiRCVuuNDm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\New folder\case\in-game" />
+      <recent name="D:\New folder\case\ảnh" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edeaa16b-c5ca-4633-ad22-6929fa79d3bd" name="Default Changelist" comment="" />
+      <created>1603530990307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603530990307</updated>
+      <workItem from="1603530991360" duration="2132000" />
+      <workItem from="1603674087414" duration="632000" />
+      <workItem from="1603677337604" duration="10000" />
+      <workItem from="1603854543090" duration="11797000" />
+      <workItem from="1603934352665" duration="7107000" />
+      <workItem from="1603942285364" duration="11229000" />
+      <workItem from="1604020161637" duration="13572000" />
+      <workItem from="1604111544762" duration="11387000" />
+      <workItem from="1604278888207" duration="20610000" />
+      <workItem from="1604364967691" duration="18000" />
+      <workItem from="1604474570357" duration="3157000" />
+      <workItem from="1604540373948" duration="16330000" />
+      <workItem from="1604625040577" duration="654000" />
+      <workItem from="1604895662431" duration="3577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="971" y="447" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604895995822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="971" y="447" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604895995822" />
+    <state x="1145" y="228" key="FileChooserDialogImpl" timestamp="1604128194106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1145" y="228" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604128194106" />
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1604022893806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604022893806" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1603942159523">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603942159523" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1604022893813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604022893813" />
+    <state x="1204" y="297" width="672" height="678" key="search.everywhere.popup" timestamp="1604283210221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1204" y="297" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604283210221" />
+  </component>
+</project>
